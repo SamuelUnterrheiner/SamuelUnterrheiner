@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamuelUnterrheiner
-- 👀 I’m interested in Vex Iq - I am 858A team captain
-- 🌱 I’m currently learning Python, and also trying to become a better driver
+- 👀 I’m interested in deep fried potatoes
+- 🌱 I’m someone that is a potato and a penguin at the same time
 
 <!---
 SamuelUnterrheiner/SamuelUnterrheiner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
